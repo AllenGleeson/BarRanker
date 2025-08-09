@@ -6,6 +6,7 @@ export type RootTabParamList = {
 };
 
 export type RootStackParamList = {
+  Splash: undefined;
   Main: undefined;
   // Add other stack screens here as needed
 };
